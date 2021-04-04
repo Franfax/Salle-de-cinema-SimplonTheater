@@ -2,4 +2,4 @@
 In this repository, you will find an answer to an exam. 
 
 
-The code was made in C++.
+The exercise has been done in C++.
